@@ -38,4 +38,4 @@ Follow these steps to use this login and sign-up page in your project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/theankitparmar/Log.in-Sign.in.git
+   git clone https://github.com/theankitparmar/Login-Signin.git
