@@ -1,4 +1,4 @@
-# Log.in-Sign.Up Page
+# Login-SignUp Page
 
 This repository features a simple, responsive login and sign-up page built with HTML and CSS. The design is minimalistic and clean, making it a perfect fit for various projects that require user authentication.
 
