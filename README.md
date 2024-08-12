@@ -12,13 +12,16 @@ This repository features a simple, responsive login and sign-up page built with 
 ## 📁 Project Structure
 
 The project is organized as follows:
+
 /project-root
 │
-├── LoginPage.html # The HTML file for login page
-├── LoginPage.css # CSS file for styling the Login page
-├── SignUp.html # The HTML file for login and sign-up
-├── Signup.css # CSS file for styling the Sign-up page
-└── README.md # This README file
+- **LoginPage.html # The HTML file for login page
+
+- **LoginPage.css # CSS file for styling the Login page
+
+- **SignUp.html # The HTML file for login and sign-up
+- **Signup.css # CSS file for styling the Sign-up page
+- **README.md # This README file
 
 
 ## 🎨 Customization
